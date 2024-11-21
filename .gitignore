@@ -36,12 +36,6 @@ Desktop.ini
 *.out
 *.err
 
-# Machine Learning and Dataset Artifacts
-*.model
-*.pkl
-*.h5
-*.joblib
-*.sav
 
 # Streamlit Cache
 .streamlit/
