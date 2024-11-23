@@ -39,7 +39,7 @@
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/CO2-Emissions-Predictor.git
+git clone https://github.com/ashishpatel8736/CO2-Emissions-Predictor.git
    cd CO2-Emissions-Predictor
 ```
 
