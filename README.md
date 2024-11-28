@@ -121,8 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
+## 👤 Author  
 **Your Name**  
-[GitHub](https://github.com/ashishpatel8736) | [LinkedIn](https://www.linkedin.com/in/ashishpatel8736)
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/ashishpatel8736) | [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/ashishpatel8736)
 
 
