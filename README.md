@@ -80,7 +80,7 @@ CO2-Emissions-Predictor-using-Streamlit/
 ## 📊 Sample Data
 Here is an example of the dataset used for training the SLR model:
 
-| Engine Size (L) | CO2 Emissions (g/km) |
+| Engine Size (L)  | CO2 Emissions (g/km) |
 |------------------|----------------------|
 | 1.5              | 145                  |
 | 2.0              | 185                  |
